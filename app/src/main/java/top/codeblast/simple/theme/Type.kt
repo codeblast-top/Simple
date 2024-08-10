@@ -1,4 +1,4 @@
-package edu.bu.schin8.components.components.myapplication.ui.theme
+package top.codeblast.simple.theme
 
 import androidx.compose.material3.Typography
 import androidx.compose.ui.text.TextStyle
