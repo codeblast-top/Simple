@@ -1,6 +1,5 @@
-package edu.bu.schin8.components.components.myapplication.ui.theme
+package top.codeblast.simple.theme
 
-import android.app.Activity
 import android.os.Build
 import androidx.compose.foundation.isSystemInDarkTheme
 import androidx.compose.material3.MaterialTheme
