@@ -38,9 +38,4 @@ class MyActivityTest {
     fun myTest() {
         composeTestRule.onNodeWithTag("Greeting").assertExists()
     }
-
-//    @Test
-//    fun addition_isNoCorrect() {
-//        Assert.fail()
-//    }
 }

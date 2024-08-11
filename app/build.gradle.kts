@@ -4,11 +4,11 @@ plugins {
 }
 
 android {
-    namespace = "edu.bu.schin8.components.components.myapplication"
+    namespace = "top.codeblast.simple.myapplication"
     compileSdk = 34
 
     defaultConfig {
-        applicationId = "edu.bu.schin8.components.components.myapplication"
+        applicationId = "top.codeblast.simple.myapplication"
         minSdk = 24
         targetSdk = 34
         versionCode = 1

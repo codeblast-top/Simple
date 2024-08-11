@@ -17,11 +17,7 @@ class ExampleInstrumentedTest {
     fun useAppContext() {
         // Context of the app under test.
         val appContext = InstrumentationRegistry.getInstrumentation().targetContext
-        Assert.assertEquals("edu.bu.schin8.components.components.myapplication", appContext.packageName)
+        Assert.assertEquals("top.codeblast.simple.myapplication", appContext.packageName)
     }
 
-        @Test
-    fun addition_isNoCorrect() {
-        Assert.fail()
-    }
 }
